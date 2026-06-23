@@ -7,6 +7,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | ------- |
 | [0001-two-sum](https://github.com/Adityapal67/DSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Adityapal67/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Adityapal67/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Adityapal67/DSA/tree/master/0078-subsets) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Adityapal67/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Adityapal67/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Adityapal67/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
