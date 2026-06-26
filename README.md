@@ -11,6 +11,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0046-permutations](https://github.com/Adityapal67/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Adityapal67/DSA/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityapal67/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0275-h-index-ii](https://github.com/Adityapal67/DSA/tree/master/0275-h-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,5 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityapal67/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0275-h-index-ii](https://github.com/Adityapal67/DSA/tree/master/0275-h-index-ii) |
 <!---LeetCode Topics End-->
