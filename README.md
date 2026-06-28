@@ -13,6 +13,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityapal67/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityapal67/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/Adityapal67/DSA/tree/master/0275-h-index-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityapal67/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityapal67/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Adityapal67/DSA/tree/master/0295-find-median-from-data-stream) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityapal67/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,4 +70,8 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Adityapal67/DSA/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityapal67/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
