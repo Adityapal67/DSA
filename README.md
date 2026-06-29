@@ -65,6 +65,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Adityapal67/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Adityapal67/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -74,4 +75,12 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityapal67/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Adityapal67/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Adityapal67/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
