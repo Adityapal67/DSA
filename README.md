@@ -78,9 +78,14 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Adityapal67/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Adityapal67/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Adityapal67/DSA/tree/master/0225-implement-stack-using-queues) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Adityapal67/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
