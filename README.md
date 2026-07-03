@@ -61,6 +61,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Adityapal67/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Adityapal67/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -88,4 +89,5 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityapal67/DSA/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Adityapal67/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
