@@ -18,6 +18,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityapal67/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Adityapal67/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Adityapal67/DSA/tree/master/0037-sudoku-solver) |
 ## Backtracking
 |  |
@@ -88,6 +89,11 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adityapal67/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Adityapal67/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityapal67/DSA/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Adityapal67/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
