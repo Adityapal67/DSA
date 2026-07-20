@@ -15,6 +15,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityapal67/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityapal67/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/Adityapal67/DSA/tree/master/0275-h-index-ii) |
+| [1260-shift-2d-grid](https://github.com/Adityapal67/DSA/tree/master/1260-shift-2d-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityapal67/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Adityapal67/DSA/tree/master/0037-sudoku-solver) |
+| [1260-shift-2d-grid](https://github.com/Adityapal67/DSA/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,4 +140,8 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityapal67/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Adityapal67/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
