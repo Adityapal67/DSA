@@ -124,6 +124,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityapal67/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityapal67/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityapal67/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Adityapal67/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityapal67/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityapal67/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityapal67/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Adityapal67/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityapal67/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityapal67/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityapal67/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Adityapal67/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -153,8 +156,13 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityapal67/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityapal67/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityapal67/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Adityapal67/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Adityapal67/DSA/tree/master/1260-shift-2d-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Adityapal67/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
