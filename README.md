@@ -15,6 +15,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityapal67/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityapal67/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/Adityapal67/DSA/tree/master/0275-h-index-ii) |
+| [0542-01-matrix](https://github.com/Adityapal67/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Adityapal67/DSA/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Adityapal67/DSA/tree/master/1260-shift-2d-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityapal67/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -41,6 +42,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Adityapal67/DSA/tree/master/0037-sudoku-solver) |
+| [0542-01-matrix](https://github.com/Adityapal67/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Adityapal67/DSA/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Adityapal67/DSA/tree/master/1260-shift-2d-grid) |
 ## Binary Search
@@ -155,6 +157,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0102-binary-tree-level-order-traversal](https://github.com/Adityapal67/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityapal67/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Adityapal67/DSA/tree/master/0133-clone-graph) |
+| [0542-01-matrix](https://github.com/Adityapal67/DSA/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityapal67/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Adityapal67/DSA/tree/master/0733-flood-fill) |
 ## Binary Search Tree
@@ -171,6 +174,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Adityapal67/DSA/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Adityapal67/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Graph Theory
 |  |
