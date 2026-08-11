@@ -18,6 +18,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0542-01-matrix](https://github.com/Adityapal67/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Adityapal67/DSA/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Adityapal67/DSA/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Adityapal67/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityapal67/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
@@ -45,11 +46,13 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0542-01-matrix](https://github.com/Adityapal67/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Adityapal67/DSA/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Adityapal67/DSA/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Adityapal67/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityapal67/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/Adityapal67/DSA/tree/master/0275-h-index-ii) |
+| [1631-path-with-minimum-effort](https://github.com/Adityapal67/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +70,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityapal67/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Adityapal67/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityapal67/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/Adityapal67/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -140,6 +144,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityapal67/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Adityapal67/DSA/tree/master/0733-flood-fill) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Adityapal67/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Adityapal67/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,6 +165,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0542-01-matrix](https://github.com/Adityapal67/DSA/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityapal67/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Adityapal67/DSA/tree/master/0733-flood-fill) |
+| [1631-path-with-minimum-effort](https://github.com/Adityapal67/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -180,4 +186,12 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Adityapal67/DSA/tree/master/0133-clone-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Adityapal67/DSA/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Adityapal67/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
