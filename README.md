@@ -20,6 +20,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [1260-shift-2d-grid](https://github.com/Adityapal67/DSA/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Adityapal67/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityapal67/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityapal67/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0037-sudoku-solver](https://github.com/Adityapal67/DSA/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/Adityapal67/DSA/tree/master/0133-clone-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityapal67/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityapal67/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,4 +196,12 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Adityapal67/DSA/tree/master/1631-path-with-minimum-effort) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityapal67/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityapal67/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
