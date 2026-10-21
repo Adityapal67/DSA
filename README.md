@@ -117,6 +117,7 @@ Here are the some of the Question i done to practice Data Structure And Algorith
 | [0020-valid-parentheses](https://github.com/Adityapal67/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityapal67/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Adityapal67/DSA/tree/master/0165-compare-version-numbers) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Adityapal67/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
